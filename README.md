@@ -2,5 +2,6 @@
 
 Para executas nosso código utilize o seguinte comando
 """
-node app.js
+se(var == 1){
+retorne 2
 """

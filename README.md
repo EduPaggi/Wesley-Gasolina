@@ -6,5 +6,4 @@ se(var == 1){
 retorne 2
 """
 Jão
-tesão
-bonito e gostosão
+Feio

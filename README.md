@@ -2,9 +2,5 @@
 
 Para executas nosso código utilize o seguinte comando
 """
-se(var == 1){
-retorne 2
+a
 """
-Jão
-Feio
-teu pai
